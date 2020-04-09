@@ -518,7 +518,7 @@
         "is_eval_dev": 1,
         "is_eval_test": 0,
         "eval_step": 300,
-        "save_model_step": 300,
+        "save_model_step": 60,
         "output_path": "/content/drive/My Drive/dusql/lstm",
         "load_parameters": null,
         "load_checkpoint": null,
