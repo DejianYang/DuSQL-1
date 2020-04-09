@@ -519,7 +519,7 @@
         "is_eval_test": 0,
         "eval_step": 300,
         "save_model_step": 300,
-        "output_path": "/content/drive/My\ Drive/dusql/lstm",
+        "output_path": "/content/drive/'My Drive'/dusql/lstm",
         "load_parameters": null,
         "load_checkpoint": null,
         "_load_checkpoint": "output/save_checkpoints/checkpoints_step_11780/",
