@@ -536,7 +536,7 @@
         "eval_step": 500,
         "train_log_step": 100,
         "save_model_step": 1000,
-        "output_path": "/content/drive/My\ Drive/dusql/ernie/",
+        "output_path": "/content/drive/'My Drive'/dusql/ernie/",
         "load_parameters": null,
         "load_checkpoint": null,
         "pre_train_model": [
