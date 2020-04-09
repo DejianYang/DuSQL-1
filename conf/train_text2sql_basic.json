@@ -238,7 +238,7 @@
                 "data_path": "./data/data_v1.0.0/train/",
                 "shuffle": true,
                 "batch_size": 64,
-                "epoch": 300,
+                "epoch": 50,
                 "sampling_rate": 1.0
             }
         },
@@ -518,7 +518,7 @@
         "is_eval_dev": 1,
         "is_eval_test": 0,
         "eval_step": 300,
-        "save_model_step": 60,
+        "save_model_step": 300,
         "output_path": "/content/drive/My Drive/dusql/lstm",
         "load_parameters": null,
         "load_checkpoint": null,
