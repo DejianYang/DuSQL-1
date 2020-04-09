@@ -241,7 +241,7 @@
             "config": {
                 "data_path": "./data/data_v1.0.0/train/",
                 "shuffle": true,
-                "batch_size": 16,
+                "batch_size": 12,
                 "epoch": 500,
                 "sampling_rate": 1.0
             }
