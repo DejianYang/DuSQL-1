@@ -538,7 +538,7 @@
         "save_model_step": 1500,
         "output_path": "/content/drive/My Drive/dusql/ernie/",
         "load_parameters": null,
-        "load_checkpoint": null,
+        "load_checkpoint": "/content/drive/My Drive/dusql/ernie/save_checkpoints/checkpoints_step_16500",
         "pre_train_model": [
             {
                 "name":"ernie_base",
