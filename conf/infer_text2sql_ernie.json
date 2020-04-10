@@ -267,7 +267,7 @@
         "PADDLE_USE_GPU": 1,
         "PADDLE_IS_LOCAL": 1,
         "use_fp16": false,
-        "inference_model_path": "./data/inference_model/ernie",
+        "inference_model_path": "/content/drive/My Drive/dusql/ernie/save_checkpoints/checkpoints_step_16500",
         "save_predict_file": "./output/infer_result.ernie.txt"
     }
 }
